@@ -14,7 +14,7 @@ const Hero = () =>  (
           20% 
         </span>    Discount For {''}
         <span className='text-white '>
-          1 mounth
+          1 Month
         </span> Account
         </p>
       </div>
